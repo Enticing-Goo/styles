@@ -1,0 +1,91 @@
+/* STYLES 
+remember: you can use different fonts! dunno if you'd want to!! but you know how to do it! 
+
+
+*/
+
+body {
+    background: #eee5db;
+    color: rgb(53, 168, 132);
+    font-family: 'Inter', sans-serif;
+}
+
+main {
+max-width: 1000px;
+margin: 0 auto;
+}
+
+
+a {
+    color: inherit;
+    transition: all 0.5s;
+}
+
+a:visited {
+    color: rgb(150, 120, 80);
+}
+
+a:hover {
+    color:rgb(223, 74, 74);
+    font-weight:700
+}
+
+ul {
+    color: rgb(42, 138, 107) ;
+    font-size: 13px;
+}
+
+h1 {
+ font-size: 45px;
+ line-height: 95%;
+ letter-spacing: -1px;
+ color: #eee5db;  
+ text-align: center;
+ background:rgb(223, 74, 74);
+ padding: 30px;
+}
+
+em{
+    display: block;
+    color:rgb(219, 93, 93);
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: -2%;
+    color: rgb(150, 120, 80); 
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(219, 93, 93); 
+    font-size: 20px;
+    margin-top: 10px;
+    Margin-bottom: 5px;
+}
+h4 {
+    color: rgb(219, 93, 93); 
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+p{
+    text-indent: 20px;
+    font-size: 13px;
+    color: rgb(42, 138, 107);
+    margin-top: 0;
+    margin-left: 20px;
+}
+
+p.top{
+    font-size: 13px;
+    color: rgb(42, 138, 107);
+}
+
+
